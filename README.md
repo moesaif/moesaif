@@ -1,74 +1,80 @@
----
-
-# 🚀 Hey, I'm **Mohamed Saif Eldeen (Saif)**
-
-### DevOps Engineer • SaaS Founder • AI Builder • Homelab Enthusiast
-
+🚀 Hey, I'm Mohamed Saif Eldeen (Saif)
+DevOps Engineer • SaaS Founder • AI Builder • Homelab Enthusiast
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
-I build **scalable SaaS platforms**, **AI developer tools**, and **production-grade cloud infrastructure**.
-I love turning ideas into products — from **NFC hardware + Shopify stores** to **Next.js SaaS**, **Python microservices**, and **LLM training pipelines**.
+I build scalable SaaS platforms, AI developer tools, and production-grade cloud infrastructure.
+I love turning ideas into products — from NFC hardware + Shopify stores to Next.js SaaS, Python microservices, and LLM training pipelines.
 
 I'm currently building:
 
-### 🟣 **TapBoost Ecosystem**
+🟣 TapBoost Ecosystem
 
-* **TapBoost.store** – NFC “Review Us” cards for businesses
-* **TapBoost.business** – A unified inbox for WhatsApp, Instagram, Messenger, WebChat, GPT-powered auto-replies, analytics, and scheduling
-* **TapBoost.me** – NFC card design editor + link management (Linktree alternative)
+TapBoost.store – NFC “Review Us” cards for businesses
 
-### 🐋 **Meer-Whale AI**
+TapBoost.business – A unified inbox for WhatsApp, Instagram, Messenger, WebChat, GPT-powered auto-replies, analytics, and scheduling
 
-* My own **developer-focused LLM** (fine-tuned from CodeGemma) for Next.js, DevOps, infrastructure, and tool-calling
-* Meer CLI: a provider-agnostic AI terminal assistant
-* Training data pipelines (Shadcn docs, Next.js 15, DevOps IaC, best-practice datasets)
+TapBoost.me – NFC card design editor + link management (Linktree alternative)
 
-### 🏡 **SaifCloud Homelab**
+🐋 Meer-Whale AI
 
-* Multi-node **K3s cluster**
-* **Traefik + Cloudflare Tunnels**
-* Longhorn, FluxCD, Prometheus/Grafana
-* All apps (n8n, Immich, Paperless, etc.) self-hosted with GitOps
+My own developer-focused LLM (fine-tuned from CodeGemma) for Next.js, DevOps, infrastructure, and tool-calling
 
----
+Meer CLI: a provider-agnostic AI terminal assistant
 
-## 🧑‍💻 Tech I Work With
+Training data pipelines (Shadcn docs, Next.js 15, DevOps IaC, best-practice datasets)
 
-### **DevOps & Cloud**
+🏡 SaifCloud Homelab
 
-* Kubernetes (K3s, RKE2), Docker, Traefik, Cloudflare Tunnels
-* GitHub Actions (self-hosted runners), Terraform, Ansible
-* FluxCD + GitOps, Helm, MetalLB, Longhorn
-* Linux, Prometheus/Grafana, Vault
+Multi-node K3s cluster
 
-### **Languages**
+Traefik + Cloudflare Tunnels
 
-* Go • Python • TypeScript • Dart • Bash • SQL
+Longhorn, FluxCD, Prometheus/Grafana
 
-### **Backend / Microservices**
+All apps (n8n, Immich, Paperless, etc.) self-hosted with GitOps
 
-* FastAPI, Flask, Go Fiber, Node.js
-* PostgreSQL, Redis, Upstash Vector
-* Supabase, Prisma
-* Message queues (NATS, RabbitMQ)
+🧑‍💻 Tech I Work With
+DevOps & Cloud
 
-### **Frontend / Mobile**
+Kubernetes (K3s, RKE2), Docker, Traefik, Cloudflare Tunnels
 
-* Next.js 15, React, Tailwind, Shadcn UI
-* Flutter (TapBoost apps)
+GitHub Actions (self-hosted runners), Terraform, Ansible
 
-### **AI / ML**
+FluxCD + GitOps, Helm, MetalLB, Longhorn
 
-* Fine-tuning (LoRA / QLoRA) with Unsloth
-* vLLM, Ollama, HuggingFace
-* Dataset generation, RAG, embeddings, tool-calling models
-* MLflow evals
+Linux, Prometheus/Grafana, Vault
 
----
+Languages
 
-## 🔥 What I'm Building Right Now
+Go • Python • TypeScript • Dart • Bash • SQL
 
-```javascript
+Backend / Microservices
+
+FastAPI, Flask, Go Fiber, Node.js
+
+PostgreSQL, Redis, Upstash Vector
+
+Supabase, Prisma
+
+Message queues (NATS, RabbitMQ)
+
+Frontend / Mobile
+
+Next.js 15, React, Tailwind, Shadcn UI
+
+Flutter (TapBoost apps)
+
+AI / ML
+
+Fine-tuning (LoRA / QLoRA) with Unsloth
+
+vLLM, Ollama, HuggingFace
+
+Dataset generation, RAG, embeddings, tool-calling models
+
+MLflow evals
+
+🔥 What I'm Building Right Now
 const Saif = {
   roles: ["DevOps Engineer", "SaaS Founder", "AI Builder"],
   building: [
@@ -82,25 +88,17 @@ const Saif = {
   funFact:
     "I don't deploy apps — I automate deployments that deploy apps.",
 };
-```
 
----
+🌍 Connect With Me
 
-## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif-blue?logo=linkedin\&style=flat-square)](https://www.linkedin.com/in/mohamed-saif/)
-![GitHub followers](https://img.shields.io/github/followers/moesaif?label=Follow\&style=social)
-[![website](https://img.shields.io/badge/Website-mohamedsaif.dev-46a2f1?style=flat-square\&logo=Google-Chrome\&logoColor=white)](https://mohamedsaif.dev/)
 
----
 
-## 📈 GitHub Stats (Optional — Keep if you like)
+
+
+📈 GitHub Stats (Optional — Keep if you like)
 
 You can keep your existing stats section, but I recommend removing old WakaTime data and replacing with GitHub cards:
 
-```md
 ![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moesaif&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesaif&layout=compact&theme=dracula)
-```
-
----
