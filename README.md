@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-saif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://mohamedsaif.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://me.saifcloud.me"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/moesaif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -45,7 +45,7 @@ const Saif = {
 | Project | Description | Links |
 |---------|-------------|-------|
 | **Meer CLI** | A provider-agnostic AI terminal assistant for developers | [Repo](https://github.com/moesaif/meer) |
-| **Meer-Whale Model** | Fine-tuned developer-centric LLM based on CodeGemma | [Repo](https://github.com/moesaif/meer-whale) |
+| **Meer-Whale Model** | Fine-tuned developer-centric LLM based on CodeGemma | [Repo](https://ollama.com/moesaif/meer-whale-1) |
 | **Training Pipeline** | Scripts for fine-tuning, merging LoRAs, dataset generation | [Repo](https://github.com/moesaif/meer-whale-training) |
 
 **Tech Stack:** Python, LoRA/QLoRA, Unsloth, vLLM, Ollama, HuggingFace, MLflow
@@ -192,7 +192,7 @@ I believe in:
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: [mohamed-saif](https://www.linkedin.com/in/mohamed-saif/)
-- 🌐 Website: [mohamedsaif.dev](https://mohamedsaif.dev)
+- 🌐 Website: [me.saifcloud.me](https://me.saifcloud.me)
 - 📧 Open to collaborations, consulting, and interesting projects!
 
 ---
